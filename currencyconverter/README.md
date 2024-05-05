@@ -1,13 +1,15 @@
 # Currency Converter
 
-This is a simple currency converter built using React.
+This is a simple currency converter built using React. 
+
+## Live Link
+You can try out the currency converter [here](https://currconverter.vercel.app/).
 
 ## Features
 
 - Convert between different currencies
 - Fetches real-time exchange rates from an API
 - Supports multiple currencies
-
 
 ## Usage
 
