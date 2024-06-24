@@ -2,10 +2,13 @@
 
 This is a simple Todo application built using React and Redux Toolkit.
 
+## Live Demo
+Check out the live version of the Todo Application [here](https://todoreduxx.vercel.app/).
+
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/todo-app.git`
-2. Navigate to the project directory: `cd todo-app`
+1. Clone the repository: `git clone https://github.com/alpharsh/reactprojects.git`
+2. Navigate to the project directory: `cd ReduxProject`
 3. Install dependencies: `npm install`
 
 ## Usage
