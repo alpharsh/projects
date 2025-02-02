@@ -1,14 +1,14 @@
-# React Projects
+# Projects
 
-This repository contains a collection of React projects.
+This repository contains a collection of projects.
 
 
 ## Getting Started
 
 To get started with any of the projects in this repository, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/alpharsh/reactprojects.git`
-2. Navigate to the React project you want to work on: `cd React/ProjectName`
+1. Clone the repository: `git clone https://github.com/alpharsh/projects.git`
+2. Navigate to the React project you want to work on: `cd projects`
 3. Install the project dependencies: `npm install`
 4. Start the development server: `npm run dev`
 
